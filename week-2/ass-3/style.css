@@ -88,4 +88,11 @@ button:hover {
   .text-section h1 {
     font-size: 1.8rem;
   }
+
+  /* CENTER ICONS */
+  .icons {
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
 }
